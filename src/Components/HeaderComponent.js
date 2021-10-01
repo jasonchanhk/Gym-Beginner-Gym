@@ -18,7 +18,7 @@ class Header extends Component {
                             className="d-inline-block align-top me-2"
                             alt="Gym Beginner Guide Logo"
                             />
-                            Gym Beginner Guide
+                            Gym Beginner Gym
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
